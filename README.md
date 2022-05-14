@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @cplKazmin
-- 👀 I’m interested in programmming, music and photography
 
 
 <!---
